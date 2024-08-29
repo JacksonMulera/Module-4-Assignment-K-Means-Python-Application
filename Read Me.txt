@@ -1,0 +1,11 @@
+
+Instructions on how to Run the Codes
+
+	1. Pycharm
+	-Run the code saved under K Means Clustering using Pycharm.
+
+  	3. The link to Github is:
+	
+	https://github.com/JacksonMulera/Module-4-Assignment-K-Means-Python-Application	
+
+	Thanks.
